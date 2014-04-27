@@ -1,0 +1,13 @@
+{
+    "namespace": "samples",
+    "name": "samples",
+    "description": "",
+    "author": "",
+    "version": "0.0.1",
+    "optimizer-dirs": [
+        "optimizers"
+    ],
+    "extra-sources": [
+        "pi.c"
+    ]
+}
